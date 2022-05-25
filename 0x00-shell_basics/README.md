@@ -3,3 +3,4 @@
 2-bring me home does the function of changing the working directory to the user's home
 3-listfiles sript actually list our files with details
 4-listmorefiles will list other files with the . character
+5-listfilesdigitonly will display files with user and group IDs displayed numerically
