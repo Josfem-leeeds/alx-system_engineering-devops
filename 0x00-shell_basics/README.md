@@ -7,5 +7,6 @@
 6-firstdirectory will create a directory in another directory
 7-movethatfile actually moves a file from a folder to another directory
 8-firstdelete this deletes a file in a particulary directory
+9-firstdirdeletion for deleting n empty directory
 
 
