@@ -4,3 +4,5 @@
 3-listfiles sript actually list our files with details
 4-listmorefiles will list other files with the . character
 5-listfilesdigitonly will display files with user and group IDs displayed numerically
+6-firstdirectory will create a directory in another directory
+
