@@ -6,4 +6,6 @@
 5-listfilesdigitonly will display files with user and group IDs displayed numerically
 6-firstdirectory will create a directory in another directory
 7-movethatfile actually moves a file from a folder to another directory
+8-firstdelete this deletes a file in a particulary directory
+
 
