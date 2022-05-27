@@ -9,4 +9,5 @@ Exercise 7 : Everybody
 Exercise 8 : James Bond
 Exercise 9 : John Doe
 Exercise 10 : Look in the mirror
+Exercise 11 : Directories
 
