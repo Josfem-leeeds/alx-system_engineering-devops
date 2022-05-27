@@ -6,3 +6,4 @@ Exercise 4 : creating an empty file
 Exercise 5 : adding execute permission to owner
 Exercise 6 : adding multiple permissions
 Exercise 7 : Everybody
+Exercise 8 : James Bond
